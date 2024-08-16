@@ -5,7 +5,7 @@ Plugin Name: Pookie NY Times Plugin
 Plugin URI: https://arafatxeon.tech
 Description: Provides both widgets and shortcodes to help you display NY Times articles on your website.
 Version: 1.0
-Author: Easin Araat
+Author: Easin Arafat
 Author URI: http://wvm.patrickgerrits.com
 License: GPL2
 */
